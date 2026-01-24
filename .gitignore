@@ -1,0 +1,42 @@
+# Environment files with secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+
+# Output files
+outputs/
+*.mp4
+*.mp3
+*.wav
+*.jpg
+*.png
+
+# Temp files
+temp/
+temp_*/
+*.tmp
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# n8n data
+n8n_data/
+
+# MoneyPrinterTurbo
+moneyprinter/venv/
+moneyprinter/storage/
+moneyprinter/resource/
