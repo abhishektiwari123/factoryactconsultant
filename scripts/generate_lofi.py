@@ -8,7 +8,7 @@ import os
 import random
 from pathlib import Path
 import httpx
-from moviepy.editor import (
+from moviepy import (
     ImageClip, AudioFileClip, CompositeVideoClip,
     ColorClip, TextClip, vfx
 )

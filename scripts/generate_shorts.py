@@ -10,7 +10,7 @@ import random
 from pathlib import Path
 import httpx
 import edge_tts
-from moviepy.editor import (
+from moviepy import (
     ImageClip, AudioFileClip, CompositeVideoClip,
     ColorClip, TextClip, concatenate_videoclips, vfx
 )

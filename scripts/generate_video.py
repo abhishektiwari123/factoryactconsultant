@@ -9,7 +9,7 @@ import random
 from pathlib import Path
 import httpx
 import edge_tts
-from moviepy.editor import ImageClip, AudioFileClip, concatenate_videoclips
+from moviepy import ImageClip, AudioFileClip, concatenate_videoclips
 
 # Config
 GROQ_API_KEY = os.getenv("GROQ_API_KEY", "")  # FREE: console.groq.com
