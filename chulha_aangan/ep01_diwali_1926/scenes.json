@@ -1,0 +1,317 @@
+{
+  "title": "100 साल पहले दीवाली कैसी होती थी? | 1926 के गाँव का चूल्हा-आंगन | Hindi Story",
+  "voice": "hi-IN-MadhurNeural",
+  "voice_rate": "-8%",
+  "voice_pitch": "-4Hz",
+  "style": "cinematic photorealistic film still, rural North India in 1926, warm golden-hour light, soft sepia and amber color grade, subtle film grain, shallow depth of field, 35mm lens, highly detailed, natural skin texture, no text, no watermark, no modern objects",
+  "negative": "modern clothes, plastic, electric lights, bulbs, cars, mobile phone, text, logo, watermark, cartoon, anime, deformed hands, extra fingers",
+  "characters": {
+    "DADI": "an elderly Indian grandmother, about 65, silver hair in a bun, wrinkled kind face, plain white cotton saree with thin border, silver bangles",
+    "BAHU": "a young Indian village woman, about 25, red cotton saree with ghoonghat over her head, glass bangles, sindoor, nose ring",
+    "DADA": "an elderly Indian grandfather, about 70, white dhoti and kurta, white turban, grey moustache, wooden walking stick",
+    "MUNIYA": "a 6-year-old Indian village girl, two oiled braids with red ribbons, faded green ghagra and blouse, big curious eyes",
+    "BETA": "an Indian village man, about 30, white dhoti, khadi kurta, cotton shawl over shoulder, thin moustache"
+  },
+  "title_cards": [
+    {"segment": 1, "text": "Year - 1926", "start": 1.0, "end": 5.0},
+    {"segment": 1, "text": "Kartik Amavasya", "start": 5.5, "end": 9.0}
+  ],
+  "segments": [
+    {
+      "id": 1,
+      "section": "Hook",
+      "narration": "कल्पना कीजिए... आज से ठीक सौ साल पहले का भारत। साल उन्नीस सौ छब्बीस। कार्तिक का महीना, और अमावस्या की वो रात... जिसका इंतज़ार पूरा साल किया जाता था। न बिजली की लड़ियाँ थीं, न बाज़ार की पैक की हुई मिठाइयाँ, न पटाखों का शोर।",
+      "shots": [
+        "aerial wide shot of a quiet North Indian village of mud houses with thatched roofs at dawn, mist over mustard fields, smoke rising from chulhas",
+        "a dirt village lane at sunrise, cows walking, a woman carrying a brass pot on her head, golden haze",
+        "close-up of a single clay diya flame flickering in darkness, warm glow",
+        "an old banyan tree at the village edge at dusk, birds returning, orange sky",
+        "a mud courtyard at twilight with dozens of unlit clay diyas lined on the wall"
+      ]
+    },
+    {
+      "id": 2,
+      "section": "Hook",
+      "narration": "फिर भी, उस दीवाली में एक ऐसी रौनक थी... जो शायद आज हमारे घरों से कहीं खो गई है। और उस रौनक का दिल था — घर का चूल्हा, और घर का आंगन। आइए, आज चलते हैं सौ साल पीछे... एक गाँव के चूल्हा-आंगन में।",
+      "shots": [
+        "{DADI} smiling in lamplight, looking at the courtyard full of diyas, emotional warm portrait",
+        "a traditional clay chulha with wood fire burning, an iron kadhai on it, smoke in sunlight",
+        "a large mud-plastered courtyard aangan of an Indian village house, tulsi chaura in the middle, morning light",
+        "{MUNIYA} running barefoot into the courtyard, laughing, motion blur, golden light"
+      ]
+    },
+    {
+      "id": 3,
+      "section": "तैयारी",
+      "narration": "दीवाली की तैयारी हफ़्तों पहले शुरू हो जाती थी। सबसे पहला काम — घर की लिपाई-पुताई। गोबर और पीली मिट्टी को पानी में घोलकर, औरतें अपने हाथों से पूरा आंगन लीपती थीं। दीवारों पर चूने और खड़िया की सफ़ेदी होती, और दरवाज़ों पर गेरू से लाल किनारी बनाई जाती।",
+      "shots": [
+        "{BAHU} kneeling and plastering the mud courtyard floor with her hands using cow dung and yellow clay, sunlight",
+        "close-up of a woman's hands with glass bangles spreading wet yellow mud on the floor in circular strokes",
+        "a man whitewashing a mud wall with lime using a jute brush, white drips, morning sun",
+        "red ochre geru border being painted around a wooden door frame of a village house",
+        "a freshly plastered clean courtyard glistening, wide shot, women resting in the shade"
+      ]
+    },
+    {
+      "id": 4,
+      "section": "तैयारी",
+      "narration": "कहते थे — लक्ष्मी माँ वहीं आती हैं जहाँ सफ़ाई हो। इसलिए पुराने बर्तन माँजे जाते, अनाज की कोठियाँ साफ़ होतीं, और बेकार सामान घर से बाहर कर दिया जाता। बच्चे भी पीछे नहीं रहते — छोटी मुनिया अपनी दादी के साथ मिट्टी के खिलौने धोती।",
+      "shots": [
+        "{BAHU} scrubbing brass and copper utensils with ash and coconut husk near a hand pump, utensils shining",
+        "a row of shining brass lotas and thalis drying in the sun on a charpai",
+        "large clay grain storage bins kothi inside a dim mud house, a woman cleaning them, light beam from window",
+        "{MUNIYA} and {DADI} washing small painted clay toys in a brass bowl of water, smiling",
+        "close-up of small clay toys: elephant, horse and cart, drying in the sun"
+      ]
+    },
+    {
+      "id": 5,
+      "section": "कुम्हार",
+      "narration": "दीवाली से कुछ दिन पहले, गाँव का कुम्हार सबसे व्यस्त आदमी होता था। उसका चाक सुबह से रात तक घूमता रहता। दीये, करवे, लक्ष्मी-गणेश की मूर्तियाँ, और बच्चों के लिए छोटे-छोटे खिलौने — सब कुछ गाँव की मिट्टी से, गाँव के हाथों से बनता था।",
+      "shots": [
+        "an old Indian village potter at a spinning wooden potter's wheel shaping a small clay diya, wet hands, morning light",
+        "hundreds of fresh clay diyas drying in rows on the ground outside a potter's hut",
+        "a potter's kiln smoking in an open field, stacked earthen pots",
+        "small hand-painted clay idols of Lakshmi and Ganesha drying on a wooden plank",
+        "{BETA} handing grain to the potter in exchange for a basket of diyas, barter, smiling"
+      ]
+    },
+    {
+      "id": 6,
+      "section": "स्वदेशी",
+      "narration": "और ये सिर्फ़ परंपरा नहीं थी। ये वो दौर था जब देश अंग्रेज़ों के राज में था, और गांधी जी स्वदेशी और खादी की बात गाँव-गाँव तक पहुँचा रहे थे। बहुत से घरों में लोग विलायती मोमबत्ती की जगह अपने कुम्हार के दीये जलाना गर्व की बात मानते थे।",
+      "shots": [
+        "a group of village men in khadi kurtas and Gandhi caps sitting under a tree listening to an elder, 1920s",
+        "a woman spinning cotton on a wooden charkha on her verandah, soft light",
+        "close-up of hands spinning khadi thread on a charkha",
+        "a colonial era dusty town road with a British style building in the background, bullock cart passing",
+        "{DADA} proudly holding a clay diya in his palm, determined expression"
+      ]
+    },
+    {
+      "id": 7,
+      "section": "धनतेरस",
+      "narration": "फिर आता धनतेरस। गाँव से कुछ कोस दूर हाट लगती। सुबह-सुबह बैलगाड़ी जोती जाती, और घर के मर्द और बच्चे हाट के लिए निकल पड़ते। वहाँ से पीतल का एक नया लोटा, या कोई छोटा बर्तन ज़रूर खरीदा जाता — ये शुभ माना जाता था।",
+      "shots": [
+        "{BETA} yoking two white bullocks to a wooden bullock cart at dawn in front of a mud house",
+        "a bullock cart with {MUNIYA} and {DADA} sitting on it moving along a dusty road through green fields",
+        "a busy 1920s Indian village haat market under trees, people in dhotis and saris, baskets, dust in sunlight",
+        "a brass utensil shop stall at a village haat with shining brass lotas and thalis stacked",
+        "{BETA} carefully examining a new brass lota, the shopkeeper smiling"
+      ]
+    },
+    {
+      "id": 8,
+      "section": "धनतेरस",
+      "narration": "हाट में चीनी के खिलौने बिकते — चीनी से बने हाथी, घोड़े, मंदिर। मुनिया की आँखें उन पर से हटती ही नहीं थीं। दादा जी अपनी धोती की गाँठ से कुछ पैसे निकालते, और मुनिया के हाथ में एक चीनी का हाथी आ जाता। उस दिन वो दुनिया की सबसे अमीर बच्ची होती।",
+      "shots": [
+        "a haat stall selling white sugar toys shaped like elephants, horses and temples, arranged on a cloth",
+        "close-up of {MUNIYA}'s face staring in wonder at sugar toys",
+        "{DADA} untying a knot in his dhoti to take out old copper coins, close-up of coins in wrinkled palm",
+        "{MUNIYA} holding a white sugar elephant toy with both hands, overjoyed smile",
+        "the bullock cart returning home at sunset, silhouette, dust glowing"
+      ]
+    },
+    {
+      "id": 9,
+      "section": "चूल्हा",
+      "narration": "अब बारी आती घर के असली दिल की — चूल्हे की। उस ज़माने में मिठाई बाज़ार से नहीं आती थी। हर चीज़ घर में बनती, और उसकी तैयारी कई दिन पहले से शुरू होती। घर की गाय के दूध से मक्खन निकलता, और उस मक्खन को चूल्हे पर पकाकर शुद्ध घी बनाया जाता।",
+      "shots": [
+        "a mud kitchen corner with a clay chulha, cow dung cakes and firewood stacked beside it, morning light through doorway",
+        "{DADI} churning curd in a clay pot with a wooden madhani rope churner, sitting on the floor",
+        "close-up of white butter floating in buttermilk in a clay pot",
+        "golden ghee bubbling in a brass pot on a wood fire chulha, steam",
+        "a cow tied in the courtyard, {BAHU} milking her into a brass pot"
+      ]
+    },
+    {
+      "id": 10,
+      "section": "चूल्हा",
+      "narration": "दूध को घंटों धीमी आँच पर औटाकर खोया बनाया जाता। बहू कढ़ाई के पास बैठी रहती, कलछी चलाती रहती — एक पल को भी नहीं रुकती, नहीं तो दूध नीचे लग जाता। और दादी पास बैठकर बतातीं — 'बेटा, धीरज रखो... खोया और रिश्ते, दोनों धीरे-धीरे ही बनते हैं।'",
+      "shots": [
+        "an iron kadhai full of milk simmering on a clay chulha, thick steam, warm firelight",
+        "{BAHU} stirring thick milk in a kadhai with a long iron ladle, sweat on her forehead, firelight on her face",
+        "close-up of thickening khoya in an iron kadhai, texture",
+        "{DADI} sitting beside the chulha talking gently to {BAHU}, warm smile, smoke in light",
+        "{BAHU} laughing shyly while stirring, emotional moment"
+      ]
+    },
+    {
+      "id": 11,
+      "section": "पकवान",
+      "narration": "फिर शुरू होता पकवानों का सिलसिला। मैदे की लोई में खोया और गुड़ भरकर गुझिया बनती। चावल के आटे से अनरसे बनते, जिन पर तिल चिपकाए जाते। गुड़ की चाशनी में डूबे मालपुए, और कढ़ाई में तलती मठरियाँ — पूरा आंगन उनकी ख़ुशबू से महक उठता।",
+      "shots": [
+        "women sitting on the floor in a circle filling gujiya with khoya and jaggery, brass plates, warm light",
+        "close-up of hands crimping the edge of a gujiya",
+        "anarsa sweets coated with sesame seeds frying in ghee in an iron kadhai",
+        "malpua being dipped into jaggery syrup, golden and glossy, close-up",
+        "a large brass thali piled with gujiya, mathri, anarsa and malpua on a wooden chowki"
+      ]
+    },
+    {
+      "id": 12,
+      "section": "पकवान",
+      "narration": "और बच्चे? वो चूल्हे के आस-पास मंडराते रहते — इस उम्मीद में कि कोई टूटी हुई गुझिया उनके हिस्से आ जाए। मुनिया चुपके से एक मठरी उठाती, और दादी देखकर भी अनदेखा कर देतीं। बस इतना कहतीं — 'पहले भगवान का भोग, फिर तेरा।'",
+      "shots": [
+        "{MUNIYA} peeking from behind a wooden pillar at the sweets near the chulha, mischievous smile",
+        "{MUNIYA}'s small hand sneaking to take a mathri from a brass plate, close-up",
+        "{DADI} pretending not to see, hiding a smile, side profile in firelight",
+        "{MUNIYA} munching the mathri happily, crumbs on her cheek",
+        "{DADI} gently wagging a finger at {MUNIYA}, both laughing"
+      ]
+    },
+    {
+      "id": 13,
+      "section": "सूरन",
+      "narration": "उत्तर भारत के बहुत से गाँवों में एक और रिवाज़ था — दीवाली के दिन सूरन, यानी ज़मीकंद की सब्ज़ी ज़रूर बनती। माना जाता था कि जैसे सूरन ज़मीन में बढ़ता ही जाता है, वैसे ही घर में समृद्धि बढ़ती रहे। साथ में बनती पूरी, कद्दू की सब्ज़ी और खील-बताशे।",
+      "shots": [
+        "a large brown suran yam elephant foot yam freshly dug, soil on it, lying on a jute sack",
+        "{BAHU} cutting suran into pieces with a traditional floor blade boti, close-up",
+        "suran sabzi cooking in an iron kadhai with spices on a chulha",
+        "puris puffing up in hot oil, close-up",
+        "khil and white batashe sugar drops in a woven bamboo basket"
+      ]
+    },
+    {
+      "id": 14,
+      "section": "घरौंदा",
+      "narration": "दीवाली की एक और प्यारी परंपरा थी — घरौंदा। घर की बेटियाँ आंगन के कोने में मिट्टी का एक छोटा-सा घर बनातीं। उसे रंगतीं, सजातीं, और उसमें छोटे-छोटे बर्तन रखतीं। माना जाता था कि जैसा सुंदर घरौंदा, वैसा ही सुंदर उनका आने वाला घर-संसार।",
+      "shots": [
+        "{MUNIYA} building a small toy house gharonda out of wet clay in the corner of the courtyard",
+        "close-up of small hands shaping a tiny clay wall of the gharonda",
+        "a finished colourful painted miniature clay house gharonda with tiny clay utensils inside",
+        "{DADI} helping {MUNIYA} paint the gharonda with white and red colour using a twig brush",
+        "{MUNIYA} proudly sitting beside her gharonda, sunset light"
+      ]
+    },
+    {
+      "id": 15,
+      "section": "दीये",
+      "narration": "शाम ढलने से पहले, दादी अपने हाथों से रुई की बाती बनातीं। बहू सैकड़ों दीयों में सरसों का तेल भरती। आंगन में चावल के आटे और हल्दी से अल्पना बनाई जाती, और देहरी पर लक्ष्मी माँ के छोटे-छोटे पैर बनाए जाते — जैसे वो सचमुच घर के भीतर चलकर आ रही हों।",
+      "shots": [
+        "{DADI} rolling cotton wicks between her palms, a pile of wicks on a brass plate, close-up",
+        "{BAHU} pouring mustard oil from a brass vessel into rows of clay diyas",
+        "a woman drawing white alpana rangoli on the mud floor with rice paste and fingers",
+        "small footprints of goddess Lakshmi drawn with rice paste and red kumkum at a doorway threshold",
+        "a wide top-down shot of an intricate white alpana on a freshly plastered mud courtyard"
+      ]
+    },
+    {
+      "id": 16,
+      "section": "लक्ष्मी पूजा",
+      "narration": "और फिर... अमावस्या की वो काली रात आती। पूरा परिवार नहा-धोकर नए या धुले हुए कपड़े पहनता। एक चौकी पर लाल कपड़ा बिछता, कुम्हार की बनाई लक्ष्मी-गणेश की मूर्तियाँ रखी जातीं, और घर के सबसे बड़े — दादा जी — पूजा शुरू करते।",
+      "shots": [
+        "a dark night sky over the village, no moon, stars, silhouette of mud houses",
+        "the family in clean traditional clothes gathering in the courtyard at night, oil lamp light",
+        "a wooden chowki with red cloth, clay Lakshmi and Ganesha idols, brass kalash, flowers, diyas",
+        "{DADA} sitting cross-legged performing puja, ringing a small brass bell, firelight on face",
+        "close-up of a brass aarti thali with a flame, kumkum, rice and marigold flowers"
+      ]
+    },
+    {
+      "id": 17,
+      "section": "लक्ष्मी पूजा",
+      "narration": "शंख बजता, घंटी की आवाज़ गूँजती, और सब मिलकर आरती गाते। उस पल न कोई अमीर था, न ग़रीब। हर घर में, अपनी हैसियत के हिसाब से, बस एक ही प्रार्थना होती — 'हे माँ, घर में अन्न रहे, सबका स्वास्थ्य बना रहे, और परिवार एक साथ रहे।'",
+      "shots": [
+        "{BETA} blowing a conch shell shankh, cheeks puffed, night",
+        "the whole family standing doing aarti together, faces glowing in lamp light, emotional",
+        "{MUNIYA} with folded hands and closed eyes praying, lamp light",
+        "{DADI} with tears of joy in her eyes during the aarti, close-up",
+        "a neighbouring poor hut with just two diyas lit, a family praying, humble and peaceful"
+      ]
+    },
+    {
+      "id": 18,
+      "section": "दीपोत्सव",
+      "narration": "पूजा के बाद, एक-एक करके दीये जलाए जाते। आंगन की मुंडेर पर, कुएँ के पास, तुलसी के चौरे पर, गौशाला में, खेत की मेड़ पर, और गाँव के मंदिर तक। कुछ ही देर में पूरा गाँव टिमटिमाते दीयों से जगमगा उठता — मानो आसमान के तारे ज़मीन पर उतर आए हों।",
+      "shots": [
+        "{BAHU} lighting a row of clay diyas on a mud wall parapet one by one with a lamp, night",
+        "diyas glowing around a tulsi chaura in a courtyard at night",
+        "a village well decorated with rows of glowing diyas at night",
+        "diyas placed along a field boundary at night, glowing in a line into the distance",
+        "aerial wide shot of a small Indian village at night lit only by thousands of tiny oil lamps, magical",
+        "a small village temple glowing with diyas, people offering lamps"
+      ]
+    },
+    {
+      "id": 19,
+      "section": "दीपोत्सव",
+      "narration": "बच्चे हाथों में छोटे दीये लेकर पड़ोसियों के घर जाते, और बदले में खील-बताशे लेकर लौटते। उस रात कोई घर अँधेरा नहीं रहता था — अगर किसी के पास तेल कम पड़ता, तो पड़ोसी अपने दीयों का तेल बाँट देते। यही थी असली रोशनी।",
+      "shots": [
+        "village children walking in a group in the night lane holding small clay diyas, faces glowing",
+        "{MUNIYA} offering a diya to an old neighbour woman at her doorway",
+        "a neighbour giving khil batashe in the cupped hands of children, smiling",
+        "one woman pouring mustard oil from her vessel into another woman's diyas, sharing, night",
+        "close-up of two diyas side by side, one lighting the other's wick"
+      ]
+    },
+    {
+      "id": 20,
+      "section": "काजल",
+      "narration": "आधी रात को दादी एक और काम करतीं। एक जलते दीये के ऊपर पीतल की कटोरी उल्टी रखतीं, और उसकी लौ से जमी कालिख को घी में मिलाकर काजल बनातीं। फिर वही काजल घर के हर बच्चे की आँखों में लगाया जाता — बुरी नज़र से बचाने के लिए।",
+      "shots": [
+        "a brass bowl held upside down over a burning clay diya, soot collecting, close-up, dark",
+        "{DADI}'s fingers mixing black soot with ghee in a small bowl to make kajal",
+        "{DADI} applying kajal in {MUNIYA}'s eyes with her little finger, tender moment, lamp light",
+        "{MUNIYA} sleeping peacefully on a charpai under a quilt, a diya glowing nearby"
+      ]
+    },
+    {
+      "id": 21,
+      "section": "दरिद्र भगाना",
+      "narration": "और फिर अगली सुबह, सूरज निकलने से पहले, घर की सबसे बड़ी औरत सूप और एक लकड़ी लेकर पूरे घर में घूमती। सूप बजाते हुए कहती — 'ईश्वर पैठें, दरिद्र निकसे!' यानी भगवान घर में आएँ, और गरीबी बाहर जाए। फिर उस पुराने सूप को गाँव के बाहर छोड़ आया जाता।",
+      "shots": [
+        "pre-dawn blue light in a mud house, {DADI} holding a bamboo winnowing basket soop and a stick",
+        "{DADI} beating the soop with a stick while walking through the rooms, motion",
+        "close-up of a bamboo soop being struck, dust particles in the first light",
+        "women walking in a group at dawn to the village edge carrying old soops, mist",
+        "an old soop left at the edge of the village by a field, sunrise"
+      ]
+    },
+    {
+      "id": 22,
+      "section": "गोवर्धन",
+      "narration": "उसी दिन गोवर्धन पूजा होती। आंगन में गोबर से गोवर्धन पर्वत बनाया जाता, गायों को नहलाकर उनके सींगों पर रंग लगाया जाता, और उन्हें गुड़-रोटी खिलाई जाती। अन्नकूट में घर का हर अनाज, हर सब्ज़ी मिलाकर पकाई जाती — और पूरा गाँव साथ बैठकर खाता।",
+      "shots": [
+        "a Govardhan figure shaped from cow dung on the courtyard floor decorated with flowers and grass",
+        "{BETA} bathing a cow at a pond, painting her horns with red and blue colour",
+        "{MUNIYA} feeding jaggery and roti to a decorated cow, cow licking her hand",
+        "a huge iron cauldron of mixed vegetable annakoot cooking on a wood fire in the open",
+        "villagers sitting in long rows on the ground eating from leaf plates pattal, served by women, community feast"
+      ]
+    },
+    {
+      "id": 23,
+      "section": "भाई दूज",
+      "narration": "और फिर भाई दूज पर ब्याही बेटियाँ मायके आतीं। बैलगाड़ी से उतरती बेटी को देखकर माँ की आँखें भर आतीं। भाई के माथे पर टीका लगता, और चूल्हे पर एक बार फिर वही पकवान बनते — क्योंकि दीवाली तब तक पूरी नहीं होती थी, जब तक पूरा परिवार एक आंगन में न बैठ जाए।",
+      "shots": [
+        "a bullock cart arriving at a village house, a married young woman in a colourful saree stepping down",
+        "a mother hugging her married daughter at the doorway, tears of joy",
+        "a sister applying a red tilak on her brother's forehead, brass thali with diya",
+        "the whole extended family sitting together in the courtyard eating from brass thalis, laughing, golden hour"
+      ]
+    },
+    {
+      "id": 24,
+      "section": "आज और कल",
+      "narration": "आज हमारे पास बिजली की लड़ियाँ हैं, ऑनलाइन मिठाइयाँ हैं, बड़े-बड़े पटाखे हैं। पर सच बताइए... क्या आज की दीवाली में वो सुकून है? सौ साल पहले लोगों के पास बहुत कम था — पर जो था, वो साथ मिलकर बाँटा जाता था। चूल्हे की आग सिर्फ़ खाना नहीं पकाती थी... रिश्ते भी पकाती थी।",
+      "shots": [
+        "{DADI} sitting alone by the dying embers of the chulha late at night, thoughtful, nostalgic",
+        "close-up of glowing embers in a clay chulha",
+        "the courtyard at dawn with burnt-out diyas, peaceful",
+        "{MUNIYA} asleep in {DADI}'s lap on a charpai, both under a shawl",
+        "a slow wide shot of the mud house and courtyard at sunrise, smoke rising from the chulha"
+      ]
+    },
+    {
+      "id": 25,
+      "section": "CTA",
+      "narration": "आपकी दादी-नानी दीवाली की कौन-सी परंपरा आज भी निभाती हैं? घरौंदा, सूप बजाना, या दीये का काजल? कमेंट में ज़रूर बताइए। अगर इस वीडियो ने आपको आपके गाँव की याद दिलाई हो, तो इसे अपने परिवार के साथ शेयर कीजिए, और चूल्हा आंगन को सब्सक्राइब कीजिए। आप सभी को दीवाली की ढेर सारी शुभकामनाएँ।",
+      "shots": [
+        "{DADI} and {MUNIYA} sitting together on the courtyard floor surrounded by glowing diyas, looking at the camera, warm smile",
+        "the whole family standing together in the decorated courtyard at night holding diyas, group portrait",
+        "a single clay diya flame in close-up against a dark background, slowly calm"
+      ]
+    }
+  ]
+}
