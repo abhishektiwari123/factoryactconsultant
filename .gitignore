@@ -40,3 +40,6 @@ n8n_data/
 moneyprinter/venv/
 moneyprinter/storage/
 moneyprinter/resource/
+
+# Episode render cache
+chulha_aangan/*/work/
